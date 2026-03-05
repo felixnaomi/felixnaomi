@@ -15,7 +15,6 @@
 - 🧠 I am interested in digital hardware systems and computer architecture, like FPGAs and Verilog/SystemVerilog-based design with compute‑intensive workloads, as well as AI and machine learning.  
 - 🤖 I am involved in the Princeton Robotics Club and the National Society of Black Engineers (NSBE), where I work on hands‑on engineering projects in collaborative technical teams.  
 - 🌱 I am currently learning how to map machine learning workloads onto FPGA‑based accelerators, from fixed‑point representations to hardware‑friendly implementations of common ML operations.  
-- 💻 I enjoy working with embedded platforms like Raspberry Pi and Arduino, as well as low‑level software and Linux tooling that interact closely with hardware.  
 
 ## Skills
 
